@@ -1,0 +1,5 @@
+### DELETE /api/auth/:id
+DELETE {{local}}/api/auth/669fd481fca8bea09d45f24c
+Authorization: Bearer {token}
+
+###

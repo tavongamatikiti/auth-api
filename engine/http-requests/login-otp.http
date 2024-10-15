@@ -1,0 +1,19 @@
+### POST /api/auth/verify-otp
+POST {{local}}/api/auth/verify-otp
+Content-Type: application/json
+
+{
+  "email": "john@example.com",
+  "otp": "518620"
+}
+
+
+### POST /api/auth/resend-otp
+POST {{local}}/api/auth/resend-otp
+Content-Type: application/json
+
+{
+  "email": "john@example.com"
+}
+
+###

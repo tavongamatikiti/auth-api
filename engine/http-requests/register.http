@@ -1,0 +1,14 @@
+### POST /api/auth/register
+POST {{local}}/api/auth/register
+Content-Type: application/json
+
+{
+  "name": "John",
+  "email": "john@example.com",
+  "password": "password123"
+}
+
+
+###
+
+

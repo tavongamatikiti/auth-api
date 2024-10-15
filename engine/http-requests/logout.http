@@ -1,0 +1,15 @@
+### POST /api/auth/logout
+GET {{local}}/api/auth/logout
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2OWZkNDgxZmNhOGJlYTA5ZDQ1ZjI0YyIsImlhdCI6MTcyMjc4NTMyNywiZXhwIjoxNzI1Mzc3MzI3fQ.Q8-kdLa11pILyHpyDRHodjh4YeodMds9c60DerptXlM
+
+###
+
+PUT {{local}}/api/auth/669fd481fca8bea09d45f24c
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2OWZkNDgxZmNhOGJlYTA5ZDQ1ZjI0YyIsImlhdCI6MTcyMTc1MDcxNiwiZXhwIjoxNzI0MzQyNzE2fQ.JkQn3K2uwovsgN9fBhl1LHpTyjHcxJWl6KnKGb7-wXQ
+Content-Type: application/json
+
+{
+  "name": "John",
+  "email": "john@example.com",
+  "password": "7bw6dn"
+}

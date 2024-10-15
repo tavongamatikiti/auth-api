@@ -1,0 +1,10 @@
+### POST /api/auth/login
+POST {{local}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "john@example.com",
+  "password": "password123"
+}
+
+###
