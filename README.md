@@ -23,7 +23,6 @@
 - Token validation and refreshing
 - Protected routes for authorized users
 - MongoDB database integration
-- Input validation with Joi or express-validator
 - Middleware for authentication and authorization
 
 ---
